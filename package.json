@@ -15,6 +15,7 @@
   "scripts": {
     "prebuild": "tsc",
     "build": "rollup -c",
+    "prepare": "npm run build",
     "prettier": "prettier --write .",
     "lint": "eslint . --fix",
     "fix": "npm run prettier && npm run lint",
