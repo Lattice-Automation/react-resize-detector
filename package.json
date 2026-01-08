@@ -1,5 +1,5 @@
 {
-  "name": "@Lattice-Automation/react-resize-detector",
+  "name": "@lattice-automation/react-resize-detector",
   "version": "12.3.0",
   "description": "React resize detector (forked from https://github.com/maslianok/react-resize-detector)",
   "type": "module",
